@@ -52,6 +52,6 @@ The Kanban Board is a web application built using React.js and React Bootstrap t
 
 ## Contributors
 
-- [Om Jannu](https://github.com/Om-jannu)
+- [Ankit Lobo](https://github.com/Ankitlobo)
 
 
